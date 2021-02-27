@@ -18,7 +18,7 @@ There are two css files: `custom_full.css` and `custom_slim.css`.
     1. add number list by adding inline tag `#numlist`.
     2.  add Kanban feature by adding inline tag `#kanban`, `#kanban-small`, `#kanban-w100`, `#kanban-w200`, `#kanban-w300`, or `#kanban-w400`.
     3.  highlight current path.
-  
+
 > Note that these features are all integrated from [here](https://github.com/cannibalox/logseq-dark-hpx).
 
 
